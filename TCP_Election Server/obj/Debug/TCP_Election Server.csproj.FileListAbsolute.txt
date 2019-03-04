@@ -1,0 +1,14 @@
+C:\Users\AA\source\repos\TCP_Election Server\TCP_Election Server\bin\Debug\TCP_Election Server.exe.config
+C:\Users\AA\source\repos\TCP_Election Server\TCP_Election Server\bin\Debug\TCP_Election Server.exe
+C:\Users\AA\source\repos\TCP_Election Server\TCP_Election Server\bin\Debug\TCP_Election Server.pdb
+C:\Users\AA\source\repos\TCP_Election Server\TCP_Election Server\bin\Debug\Google.Protobuf.dll
+C:\Users\AA\source\repos\TCP_Election Server\TCP_Election Server\bin\Debug\Google.Protobuf.xml
+C:\Users\AA\source\repos\TCP_Election Server\TCP_Election Server\bin\Debug\MySql.Data.xml
+C:\Users\AA\source\repos\TCP_Election Server\TCP_Election Server\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\AA\source\repos\TCP_Election Server\TCP_Election Server\bin\Debug\Newtonsoft.Json.xml
+C:\Users\AA\source\repos\TCP_Election Server\TCP_Election Server\obj\Debug\TCP_Election Server.csprojAssemblyReference.cache
+C:\Users\AA\source\repos\TCP_Election Server\TCP_Election Server\obj\Debug\TCP_Election Server.csproj.CoreCompileInputs.cache
+C:\Users\AA\source\repos\TCP_Election Server\TCP_Election Server\obj\Debug\TCP_Election Server.csproj.CopyComplete
+C:\Users\AA\source\repos\TCP_Election Server\TCP_Election Server\obj\Debug\TCP_Election Server.exe
+C:\Users\AA\source\repos\TCP_Election Server\TCP_Election Server\obj\Debug\TCP_Election Server.pdb
+C:\Users\AA\source\repos\TCP_Election Server\TCP_Election Server\bin\Debug\Security\Secret.xml
