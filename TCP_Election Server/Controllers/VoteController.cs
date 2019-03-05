@@ -33,8 +33,16 @@ namespace TCP_Election_Server.Controllers
                             vote.HashTitle = new SHA256Managed().ComputeHash(candidate.VoteList.Peek().EncryptedVote);
                         }
                         candidate.VoteList.Push(vote);
+                        candidate.TotalVotes += 1;
                         Console.WriteLine(JsonConvert.SerializeObject(vote, Formatting.Indented));
-                        SaveBallotBox();
+                        try
+                        {
+                            SaveBallotBox();
+                        }
+                        catch (System.IO.IOException e)
+                        {
+                            return;
+                        }
                     }
                 }
             }
@@ -47,6 +55,7 @@ namespace TCP_Election_Server.Controllers
             using (FileStream fileStream = File.OpenWrite("BallotBox.json"))
             {
                 StreamWriter writer = new StreamWriter(fileStream);
+
                 writer.Write(JsonConvert.SerializeObject(BallotBox, Formatting.Indented));
                 writer.Close();
                 fileStream.Close();

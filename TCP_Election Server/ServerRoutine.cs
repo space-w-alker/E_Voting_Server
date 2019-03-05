@@ -19,7 +19,7 @@ namespace TCP_Election_Server
         public static void StartRoutine()
         {
             Int32 port = 13002;
-            IPAddress localAddress = IPAddress.Parse("196.220.240.111");
+            IPAddress localAddress = IPAddress.Parse("127.0.0.1");
 
             server = new TcpListener(localAddress, port);
             server.Start();

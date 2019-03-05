@@ -10,6 +10,7 @@ namespace TCP_Election_Server.Models
     public class Candidate
     {
         public string CandidateName { get; set; }
+        public long TotalVotes { get; set; }
         public Int64 UniqueId { get; set; }
         public int CatId { get; set; }
         public Stack<Vote> VoteList { get; set;}
@@ -17,6 +18,7 @@ namespace TCP_Election_Server.Models
         public Candidate()
         {
             VoteList = new Stack<Vote>();
+            TotalVotes = 0;
         }
     }
 }
