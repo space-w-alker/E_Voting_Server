@@ -5,41 +5,58 @@
     "Candidates": [
       {
         "CandidateName": "Abdullahi Abass",
-        "TotalVotes": 1,
-        "UniqueId": 1,
-        "CatId": 1,
-        "VoteList": [
-          {
-            "HashTitle": "/f0Lh1PMxg5nUkiP3YLtMeLGqIh5u+JVaL5j+c7GhFk=",
-            "CandidateId": 1,
-            "EncryptedVote": "PTg8JVDyhlna7v2BVwkc+nPdkolqb43l0cBgLNmHwL4="
-          }
-        ]
-      },
-      {
-        "CandidateName": "Akinwande Akinboluwarin",
         "TotalVotes": 0,
-        "UniqueId": 2,
+        "UniqueId": 1,
         "CatId": 1,
         "VoteList": []
       },
       {
-        "CandidateName": "Babatunde Oyinkansola",
-        "TotalVotes": 2,
-        "UniqueId": 3,
+        "CandidateName": "Akinwande Akinboluwarin",
+        "TotalVotes": 1,
+        "UniqueId": 2,
         "CatId": 1,
         "VoteList": [
           {
-            "HashTitle": "xqgQJTMGc0SHC34lfHfYbSHKP/zdWkHXD5DHD5c0VlU=",
-            "CandidateId": 3,
-            "EncryptedVote": "WTdgYfJk9YAos7NRy189dmv92DGOqsLKKaens7+mGKo="
-          },
-          {
             "HashTitle": "/f0Lh1PMxg5nUkiP3YLtMeLGqIh5u+JVaL5j+c7GhFk=",
-            "CandidateId": 3,
-            "EncryptedVote": "t5bb4tJKX5W3mFX71K8Hn5PHmCXZnaPn8ITx+EwsjpU="
+            "CandidateId": 2,
+            "EncryptedVote": "2huljll24x/M4uyILog810gHMQBzEieEiX0ZtnF4Hjs="
           }
         ]
+      },
+      {
+        "CandidateName": "Babatunde Oyinkansola",
+        "TotalVotes": 0,
+        "UniqueId": 3,
+        "CatId": 1,
+        "VoteList": []
+      },
+      {
+        "CandidateName": "Tom Cruise",
+        "TotalVotes": 0,
+        "UniqueId": 11,
+        "CatId": 1,
+        "VoteList": []
+      },
+      {
+        "CandidateName": "Morgan Freeman",
+        "TotalVotes": 0,
+        "UniqueId": 12,
+        "CatId": 1,
+        "VoteList": []
+      },
+      {
+        "CandidateName": "John Cena",
+        "TotalVotes": 0,
+        "UniqueId": 13,
+        "CatId": 1,
+        "VoteList": []
+      },
+      {
+        "CandidateName": "Kendrik Lammar",
+        "TotalVotes": 0,
+        "UniqueId": 14,
+        "CatId": 1,
+        "VoteList": []
       }
     ]
   },
@@ -49,47 +66,24 @@
     "Candidates": [
       {
         "CandidateName": "Adegbenro Temitope",
-        "TotalVotes": 1,
+        "TotalVotes": 0,
         "UniqueId": 4,
         "CatId": 2,
-        "VoteList": [
-          {
-            "HashTitle": "/f0Lh1PMxg5nUkiP3YLtMeLGqIh5u+JVaL5j+c7GhFk=",
-            "CandidateId": 4,
-            "EncryptedVote": "PTg8JVDyhlna7v2BVwkc+tGIUxMgIjSEfxB9OOHHIek="
-          }
-        ]
+        "VoteList": []
       },
       {
         "CandidateName": "Bamise Oluwaseun",
-        "TotalVotes": 2,
+        "TotalVotes": 0,
         "UniqueId": 5,
         "CatId": 2,
-        "VoteList": [
-          {
-            "HashTitle": "VD0gfTOS1jzniN1M0M27YgDUfsHXj5GCGzk4Et7/9/A=",
-            "CandidateId": 5,
-            "EncryptedVote": "WTdgYfJk9YAos7NRy189dlZ5maG/nJlvVZO8YsB3t2w="
-          },
-          {
-            "HashTitle": "/f0Lh1PMxg5nUkiP3YLtMeLGqIh5u+JVaL5j+c7GhFk=",
-            "CandidateId": 5,
-            "EncryptedVote": "PTg8JVDyhlna7v2BVwkc+vkcxVrLzStAiE9tcmTIGII="
-          }
-        ]
+        "VoteList": []
       },
       {
         "CandidateName": "Adanike Oluwaseun",
-        "TotalVotes": 1,
+        "TotalVotes": 0,
         "UniqueId": 6,
         "CatId": 2,
-        "VoteList": [
-          {
-            "HashTitle": "/f0Lh1PMxg5nUkiP3YLtMeLGqIh5u+JVaL5j+c7GhFk=",
-            "CandidateId": 6,
-            "EncryptedVote": "WTdgYfJk9YAos7NRy189drN0vszzpJmORHBID26R3nk="
-          }
-        ]
+        "VoteList": []
       }
     ]
   },
@@ -99,29 +93,17 @@
     "Candidates": [
       {
         "CandidateName": "John Doe",
-        "TotalVotes": 1,
+        "TotalVotes": 0,
         "UniqueId": 7,
         "CatId": 3,
-        "VoteList": [
-          {
-            "HashTitle": "/f0Lh1PMxg5nUkiP3YLtMeLGqIh5u+JVaL5j+c7GhFk=",
-            "CandidateId": 7,
-            "EncryptedVote": "WTdgYfJk9YAos7NRy189drhYbOSxZVFeOSX+4irswZY="
-          }
-        ]
+        "VoteList": []
       },
       {
         "CandidateName": "Jamie Foxx",
-        "TotalVotes": 1,
+        "TotalVotes": 0,
         "UniqueId": 8,
         "CatId": 3,
-        "VoteList": [
-          {
-            "HashTitle": "/f0Lh1PMxg5nUkiP3YLtMeLGqIh5u+JVaL5j+c7GhFk=",
-            "CandidateId": 8,
-            "EncryptedVote": "PTg8JVDyhlna7v2BVwkc+rQWce9/868bfFnv8QGAEaY="
-          }
-        ]
+        "VoteList": []
       }
     ]
   },
@@ -138,21 +120,10 @@
       },
       {
         "CandidateName": "Lionel Messi",
-        "TotalVotes": 2,
+        "TotalVotes": 0,
         "UniqueId": 10,
         "CatId": 4,
-        "VoteList": [
-          {
-            "HashTitle": "0bhDUHInec7e81+p1zP84xxHhbXP0F6Dr/U6p+NERQw=",
-            "CandidateId": 10,
-            "EncryptedVote": "WTdgYfJk9YAos7NRy189du3XCjmZIdHaWvDNWDhWPOs="
-          },
-          {
-            "HashTitle": "/f0Lh1PMxg5nUkiP3YLtMeLGqIh5u+JVaL5j+c7GhFk=",
-            "CandidateId": 10,
-            "EncryptedVote": "PTg8JVDyhlna7v2BVwkc+r2FHPTuOjTgAOpyAqjfFpM="
-          }
-        ]
+        "VoteList": []
       }
     ]
   }
